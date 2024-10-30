@@ -1,6 +1,6 @@
 # Frontend Mentor - Chat app CSS illustration solution
 
-This is a solution to the [Chat app CSS illustration challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Chat app CSS illustration challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Overview
 
@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site URL](https://codepapa360.github.io/chat-app-css-illustration-master/)
+- [Live Site URL](https://chat-app-css-illustration-alamin.netlify.app)
 - [Solution URL](https://www.frontendmentor.io/solutions/beautiful-chat-app-css-illustration-G9lHp_ECUA)
 
 ### Screenshot
@@ -21,7 +21,7 @@ Users should be able to:
 
 <p><img align="center" src="design/Desktop-preview.png"/></p>
 
-#### Mobile preview 
+#### Mobile preview
 
 <p><img align="center" width="30%" src="design/Mobile-preview.png"/></p>
 
@@ -36,6 +36,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
